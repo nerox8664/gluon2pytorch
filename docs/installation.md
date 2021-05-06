@@ -7,13 +7,13 @@ pip install gluon2pytorch
 It's possible to install package with PIP right from git:
 
 ```
-pip install -U git+https://github.com/nerox8664/gluon2pytorch 
+pip install -U git+https://github.com/catmanifold/gluon2pytorch 
 ```
 
 Or to clone it manually and then install it with PIP:
 
 ```
-git clone https://github.com/nerox8664/gluon2pytorch 
+git clone https://github.com/catmanifold/gluon2pytorch 
 cd gluon2pytorch
 pip install -e .
 ```
